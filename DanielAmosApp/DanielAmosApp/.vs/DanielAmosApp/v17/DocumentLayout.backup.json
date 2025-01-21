@@ -1,0 +1,1487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\machineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\machineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\machineview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\machineview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\machinescontainerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\machinescontainerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\implementation\\machinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\implementation\\machinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\interfaces\\imachinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\interfaces\\imachinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\interfaces\\imachinesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\interfaces\\imachinesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\implementation\\machinesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\implementation\\machinesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\machinescontainerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\machinescontainerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\common\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\common\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\common\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\common\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\machineview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\machineview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\logoutconffirmview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\logoutconffirmview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\interfaces\\iaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\interfaces\\iaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\interfaces\\iregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\interfaces\\iregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\interfaces\\iloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\interfaces\\iloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\navigationitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\navigationitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\addview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\addview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\addview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\addview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\convertor\\booltovisibilityreverseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\convertor\\booltovisibilityreverseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\convertor\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\convertor\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\common\\generalenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\common\\generalenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\common\\appactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\common\\appactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\interfaces\\istatusesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\interfaces\\istatusesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\implementation\\statusesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\implementation\\statusesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\logs\\log-20250121.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\logs\\log-20250121.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\common\\musicplayermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\common\\musicplayermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\implementation\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\implementation\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\implementation\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\implementation\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\common\\loggermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\common\\loggermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\implementation\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\implementation\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\common\\customexceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\common\\customexceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\splashscreenview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\splashscreenview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\logoutconffirmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\logoutconffirmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\convertor\\booleantocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\convertor\\booleantocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\convertor\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\convertor\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\informationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\informationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\viewmodels\\splashscreenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\viewmodels\\splashscreenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\searchview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\informationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\informationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\editview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\editview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\logoutconffirmview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\logoutconffirmview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\informationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\informationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\views\\splashscreenview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\views\\splashscreenview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\common\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\common\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\common\\dbconfigreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\common\\dbconfigreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\models\\navigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\models\\navigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\behaviors\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\behaviors\\passwordboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\interfaces\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\interfaces\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\utills\\custom\\actionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\utills\\custom\\actionbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\assets\\images\\2splashscreen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\assets\\images\\2splashscreen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\assets\\images\\splashscreen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\assets\\images\\splashscreen.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\models\\type\\humanoperatedmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\models\\type\\humanoperatedmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\models\\type\\robotmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\models\\type\\robotmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\Projects\\T1\\Temp1\\WpfApp1\\MyFirstApp\\MyFirstApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\implementation\\statusesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\implementation\\statusesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\interfaces\\istatusesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\interfaces\\istatusesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\edard\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\common\\dbaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\common\\dbaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|c:\\users\\edard\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\pljo\\danielamosapp\\danielamosapp\\danielamosapp\\data\\dbconfig.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E01E729-AEDE-408C-84D3-B1E74A5A6884}|DanielAmosApp\\DanielAmosApp.csproj|solutionrelative:danielamosapp\\data\\dbconfig.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 891,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9b96d899-3214-4b6f-a8b9-182d4bc2f76f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Machine.cs",
+              "RelativeToolTip": "DanielAmosApp\\Models\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:41:24.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\MainViewModel.cs*",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\MainViewModel.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAASwDMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:57:52.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\App.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\App.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAASwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:46:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MachineViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\MachineViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\MachineViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\MachineViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\MachineViewModel.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv3IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:52:42.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MachineView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\MachineView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\MachineView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\MachineView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\MachineView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T09:36:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAArwM8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:11:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\MainWindow.xaml",
+              "RelativeToolTip": "DanielAmosApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T01:02:14.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:06:02.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MachinesContainerView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\MachinesContainerView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\MachinesContainerView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\MachinesContainerView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\MachinesContainerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T10:04:20.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMachinesService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IMachinesService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Interfaces\\IMachinesService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IMachinesService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Interfaces\\IMachinesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:20:12.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MachinesService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\MachinesService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Implementation\\MachinesService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\MachinesService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Implementation\\MachinesService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:22:02.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMachinesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Interfaces\\IMachinesRepository.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Interfaces\\IMachinesRepository.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Interfaces\\IMachinesRepository.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Interfaces\\IMachinesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:17:04.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MachinesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Implementation\\MachinesRepository.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Implementation\\MachinesRepository.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Implementation\\MachinesRepository.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Implementation\\MachinesRepository.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwGwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:17:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MachinesContainerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\MachinesContainerViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\MachinesContainerViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\MachinesContainerViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\MachinesContainerViewModel.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAswGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:05:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Common\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\RelayCommand.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Common\\RelayCommand.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:14:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewModelLocator.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\ViewModelLocator.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Common\\ViewModelLocator.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\ViewModelLocator.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Common\\ViewModelLocator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:50:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\App.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\App.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\App.xaml",
+              "RelativeToolTip": "DanielAmosApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T17:00:02.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\LogInViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\LogInViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\LogInViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\LogInViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIAzwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:11:27.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MachineView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\MachineView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\MachineView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\MachineView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\MachineView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:46:28.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogOutConffirmView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogOutConffirmView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\LogOutConffirmView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogOutConffirmView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\LogOutConffirmView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:05:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILogInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\Interfaces\\ILogInViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\Interfaces\\ILogInViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\Interfaces\\ILogInViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\Interfaces\\ILogInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:51:10.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\Interfaces\\IAddViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\Interfaces\\IAddViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\Interfaces\\IAddViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\Interfaces\\IAddViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:53:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\Interfaces\\IRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\Interfaces\\IRegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\Interfaces\\IRegisterViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\Interfaces\\IRegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:41:14.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NavigationItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\NavigationItemViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\NavigationItemViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\NavigationItemViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\NavigationItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:13:06.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\AddView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\AddView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\AddView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\AddView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:40:05.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\AddViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\AddViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\AddViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\AddViewModel.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAASwO8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:10:12.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\AddView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\AddView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\AddView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\AddView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:06:51.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:15:10.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BoolToVisibilityReverseConverter.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityReverseConverter.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityReverseConverter.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityReverseConverter.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Convertor\\BoolToVisibilityReverseConverter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:25:19.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GeneralEnum.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\GeneralEnum.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Common\\GeneralEnum.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\GeneralEnum.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Common\\GeneralEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:53:26.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\RegisterView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\RegisterView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\RegisterView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\RegisterView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:46:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\RegisterView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:05:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:43:49.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Status.cs",
+              "RelativeToolTip": "DanielAmosApp\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:42:04.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppActionModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\AppActionModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Common\\AppActionModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\AppActionModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Common\\AppActionModel.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAIAwwIIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:58:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IStatusesService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IStatusesService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Interfaces\\IStatusesService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IStatusesService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Interfaces\\IStatusesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:08.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StatusesService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\StatusesService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Implementation\\StatusesService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\StatusesService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Implementation\\StatusesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:50.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LogInView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogInView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\LogInView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogInView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\LogInView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:05:07.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MusicPlayerModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\MusicPlayerModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Common\\MusicPlayerModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\MusicPlayerModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Common\\MusicPlayerModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:49:49.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "log-20250121.txt",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Logs\\log-20250121.txt",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Logs\\log-20250121.txt",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Logs\\log-20250121.txt",
+              "RelativeToolTip": "DanielAmosApp\\Logs\\log-20250121.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-21T05:23:28.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Interfaces\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Interfaces\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Interfaces\\IUsersRepository.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Interfaces\\IUsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:13:32.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\UsersService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Implementation\\UsersService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\UsersService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Implementation\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:38.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Implementation\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Implementation\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Implementation\\UsersRepository.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Implementation\\UsersRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIAxwEMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:18:28.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Interfaces\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Interfaces\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:21:22.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoggerModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\LoggerModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Common\\LoggerModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\LoggerModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Common\\LoggerModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:53:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\NavigationService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Implementation\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\NavigationService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Implementation\\NavigationService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:22:24.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomExceptionModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\CustomExceptionModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Common\\CustomExceptionModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Common\\CustomExceptionModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Common\\CustomExceptionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:03:56.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Implementation\\AuthService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwC4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:22:08.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SplashScreenView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\SplashScreenView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\SplashScreenView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\SplashScreenView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\SplashScreenView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T21:48:41.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LogOutConffirmViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\LogOutConffirmViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\LogOutConffirmViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\LogOutConffirmViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\LogOutConffirmViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:11:48.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LogInView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogInView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\LogInView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogInView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\LogInView.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:03:21.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:10:59.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DashBoardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\DashBoardView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\DashBoardView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\DashBoardView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\DashBoardView.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:22:46.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NullToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\NullToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Convertor\\NullToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\NullToVisibilityConverter.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Convertor\\NullToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:10:16.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BooleanToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\BooleanToColorConverter.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Convertor\\BooleanToColorConverter.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Convertor\\BooleanToColorConverter.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Convertor\\BooleanToColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:16:29.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\HomeView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:47:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DashBoardView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\DashBoardView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\DashBoardView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\DashBoardView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\DashBoardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:06:13.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "DanielAmosApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:03:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\HomeView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:04:30.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "InformationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\InformationViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\InformationViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\InformationViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\InformationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:38:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\SearchViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\SearchViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\SearchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:12:11.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DashBoardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\DashBoardViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\DashBoardViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\DashBoardViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\DashBoardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:10:35.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "InformationView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\InformationView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\InformationView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\InformationView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\InformationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T00:37:31.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SearchView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\SearchView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\SearchView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\SearchView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\SearchView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:09:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SplashScreenViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\SplashScreenViewModel.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\ViewModels\\SplashScreenViewModel.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\ViewModels\\SplashScreenViewModel.cs",
+              "RelativeToolTip": "DanielAmosApp\\ViewModels\\SplashScreenViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:53:05.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EditView.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\EditView.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\EditView.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\EditView.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Views\\EditView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:06:38.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "InformationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\InformationView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\InformationView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\InformationView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\InformationView.xaml.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAIUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:38:00.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LogOutConffirmView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogOutConffirmView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\LogOutConffirmView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\LogOutConffirmView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\LogOutConffirmView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:58:17.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DbConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Common\\DbConfigReader.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Common\\DbConfigReader.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Common\\DbConfigReader.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Common\\DbConfigReader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:18:08.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Common\\DataHelper.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Common\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Common\\DataHelper.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Common\\DataHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:41:17.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SplashScreenView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\SplashScreenView.xaml.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Views\\SplashScreenView.xaml.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Views\\SplashScreenView.xaml.cs",
+              "RelativeToolTip": "DanielAmosApp\\Views\\SplashScreenView.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:52:10.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Themes\\Generic.xaml",
+              "RelativeToolTip": "DanielAmosApp\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T23:20:06.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "NavigationItem.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\NavigationItem.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Models\\NavigationItem.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\NavigationItem.cs",
+              "RelativeToolTip": "DanielAmosApp\\Models\\NavigationItem.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:03:22.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PasswordBoxHelper.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Behaviors\\PasswordBoxHelper.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Behaviors\\PasswordBoxHelper.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Behaviors\\PasswordBoxHelper.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Behaviors\\PasswordBoxHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:13:55.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\INavigationService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Interfaces\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\INavigationService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Interfaces\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:23:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "DanielAmosApp\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:23:14.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ActionButton.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Custom\\ActionButton.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Utills\\Custom\\ActionButton.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Utills\\Custom\\ActionButton.cs",
+              "RelativeToolTip": "DanielAmosApp\\Utills\\Custom\\ActionButton.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:19:29.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "2SplashScreen.png",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Assets\\Images\\2SplashScreen.png",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Assets\\Images\\2SplashScreen.png",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Assets\\Images\\2SplashScreen.png",
+              "RelativeToolTip": "DanielAmosApp\\Assets\\Images\\2SplashScreen.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-20T22:18:21.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SplashScreen.png",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Assets\\Images\\SplashScreen.png",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Assets\\Images\\SplashScreen.png",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Assets\\Images\\SplashScreen.png",
+              "RelativeToolTip": "DanielAmosApp\\Assets\\Images\\SplashScreen.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-20T22:18:23.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MyFirstApp.csproj",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\Projects\\T1\\Temp1\\WpfApp1\\MyFirstApp\\MyFirstApp.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Projects\\T1\\Temp1\\WpfApp1\\MyFirstApp\\MyFirstApp.csproj",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\Projects\\T1\\Temp1\\WpfApp1\\MyFirstApp\\MyFirstApp.csproj",
+              "RelativeToolTip": "..\\..\\Projects\\T1\\Temp1\\WpfApp1\\MyFirstApp\\MyFirstApp.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T21:46:44.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\User.cs",
+              "RelativeToolTip": "DanielAmosApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:47:29.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RobotMachine.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Type\\RobotMachine.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Models\\Type\\RobotMachine.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Type\\RobotMachine.cs",
+              "RelativeToolTip": "DanielAmosApp\\Models\\Type\\RobotMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:34:33.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "HumanOperatedMachine.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Type\\HumanOperatedMachine.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Models\\Type\\HumanOperatedMachine.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Models\\Type\\HumanOperatedMachine.cs",
+              "RelativeToolTip": "DanielAmosApp\\Models\\Type\\HumanOperatedMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:34:04.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "StatusesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Implementation\\StatusesRepository.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Implementation\\StatusesRepository.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Implementation\\StatusesRepository.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Implementation\\StatusesRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:18:01.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IStatusesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Interfaces\\IStatusesRepository.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Interfaces\\IStatusesRepository.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Interfaces\\IStatusesRepository.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Interfaces\\IStatusesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:17:21.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\edard\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKoBAAAAAAAAAAASwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:31:01.483Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DbAction.cs",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Common\\DbAction.cs",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\Common\\DbAction.cs",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\Common\\DbAction.cs",
+              "RelativeToolTip": "DanielAmosApp\\Data\\Common\\DbAction.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:20:52.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "DbConfig.xml",
+              "DocumentMoniker": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\DbConfig.xml",
+              "RelativeDocumentMoniker": "DanielAmosApp\\Data\\DbConfig.xml",
+              "ToolTip": "C:\\Users\\edard\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D1\u05D6\u05DB\u05D5\u05EA \u05EA\u05DE\u05E9\u05D5\u05E9\\PLJO\\DanielAmosApp\\DanielAmosApp\\DanielAmosApp\\Data\\DbConfig.xml",
+              "RelativeToolTip": "DanielAmosApp\\Data\\DbConfig.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-20T15:39:40.794Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

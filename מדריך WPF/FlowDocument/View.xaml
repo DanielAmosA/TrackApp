@@ -1,0 +1,23 @@
+    <UserControl.Resources>
+        <!-- אנימציית Fade-In לכותרת -->
+        <Storyboard x:Key="FadeInAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:1.5" />
+        </Storyboard>
+
+        <!-- אנימציית Scale-Up לתמונה -->
+        <Storyboard x:Key="ImageScaleAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.ScaleX" From="0.5" To="1" Duration="0:0:1" />
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.ScaleY" From="0.5" To="1" Duration="0:0:1" />
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:1" />
+        </Storyboard>
+    </UserControl.Resources>
+    <Grid FlowDirection="RightToLeft">
+        <!-- כותרת עם אנימציה -->
+        <TextBlock Name="TitleText" Text="מטרת היישום שלנו" 
+                   FontSize="24" FontWeight="Bold" Foreground="#6200EE"
+                   HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0"
+                   Opacity="0" />
+
+        <!-- FlowDocument תצוגה -->
+        <FlowDocumentScrollViewer Name="DocumentViewer" VerticalScrollBarVisibility="Auto" Margin="10,70,10,10" />
+    </Grid>

@@ -1,0 +1,33 @@
+ <Grid>
+        <!-- הגדרת שורות ועמודות -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- רכיב בתא 0,0 -->
+        <Button Grid.Row="0" Grid.Column="0" 
+		Content="כפתור 1" Margin="5"/>
+
+        <!-- רכיב בתא 1,0 -->
+        <TextBox Grid.Row="1" Grid.Column="0" 
+		Text="תיבת טקסט" Margin="5"/>
+
+        <!-- רכיב בתא 1,1 -->
+        <TextBlock Grid.Row="1" Grid.Column="1" 
+		Text="טקסט עליון ב-Grid" Margin="5" />
+
+        <!-- רכיב בתא 2,0 -->
+        <Button Grid.Row="2" Grid.Column="0" 
+		Content="כפתור 2" Margin="5"/>
+</Grid>
+
+
+
+	

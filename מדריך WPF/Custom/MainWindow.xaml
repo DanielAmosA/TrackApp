@@ -1,0 +1,5 @@
+<Grid>
+        <custom:CustomButton ButtonSize="150" ButtonColor="LightGreen" 
+                             Content="Click Me"
+                             ButtonCommand="{Binding CustomButtonCommand}"/>
+    </Grid>

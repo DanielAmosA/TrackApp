@@ -1,0 +1,18 @@
+<DockPanel>
+        <!-- רכיב שמודבק למעלה -->
+        <Button DockPanel.Dock="Top" Content="כפתור למעלה" Height="50"/>
+
+        <!-- רכיב שמודבק למטה -->
+        <Button DockPanel.Dock="Bottom" Content="כפתור למטה" Height="50"/>
+
+        <!-- רכיב שמודבק לימין -->
+        <Button DockPanel.Dock="Right" Content="כפתור לימין" Width="100"/>
+
+        <!-- רכיב שמודבק לשמאל -->
+        <Button DockPanel.Dock="Left" Content="כפתור לשמאל" Width="100"/>
+
+        <!-- רכיב שממלא את שאר החלל -->
+        <TextBlock DockPanel.Dock="Fill" Text="הטקסט הזה ממלא את שאר החלל" 
+		VerticalAlignment="Center" HorizontalAlignment="Center"/>
+</DockPanel>
+

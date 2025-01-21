@@ -1,0 +1,32 @@
+<Window x:Class="PopupMVVMExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Popup Example with MVVM" Height="300" Width="400">
+    <Grid>
+        <!-- כפתור לפתיחת הפופ-אפ -->
+        <Button Content="Open Popup" 
+                Command="{Binding OpenPopupCommand}" 
+                HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+        <!-- פופ-אפ -->
+        <Popup IsOpen="{Binding IsPopupOpen}" Placement="Center">
+            <Border Background="White" BorderBrush="Black" BorderThickness="2" Padding="20" CornerRadius="10">
+                <StackPanel>
+                    <!-- הודעה בתוך הפופ-אפ -->
+                    <TextBlock Text="This is a popup message!" 
+                               FontSize="16" 
+                               Margin="0,0,0,10" 
+                               HorizontalAlignment="Center"/>
+
+                    <!-- כפתור לסגירת הפופ-אפ -->
+                    <Button Content="Close Popup" 
+                            Command="{Binding ClosePopupCommand}" 
+                            HorizontalAlignment="Center" />
+                </StackPanel>
+            </Border>
+        </Popup>
+    </Grid>
+</Window>

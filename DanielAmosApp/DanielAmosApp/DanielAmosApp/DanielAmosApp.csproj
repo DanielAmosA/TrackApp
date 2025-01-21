@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Images\Back.png" />
+    <None Remove="Assets\Images\Icon.png" />
+    <None Remove="Assets\Images\LogIn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Utills\Convertor\BoolToVisibilityReverseConverter.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="5.2.1" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="9.0.1" />
+    <PackageReference Include="Serilog" Version="4.2.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\Back.png" />
+    <Resource Include="Assets\Images\Info.png" />
+    <Resource Include="Assets\Images\Ico.png" />
+    <Resource Include="Assets\Images\2SplashScreen.png" />
+    <Resource Include="Assets\Images\Icon.png" />
+    <Resource Include="Assets\Images\SplashScreen.png" />
+    <Resource Include="Assets\Images\Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\LogIn.png" />
+  </ItemGroup>
+
+</Project>

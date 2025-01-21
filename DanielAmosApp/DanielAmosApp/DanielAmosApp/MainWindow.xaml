@@ -1,0 +1,215 @@
+﻿<Window x:Class="DanielAmosApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"     
+        xmlns:local="clr-namespace:DanielAmosApp" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+       Title="My Application" Height="750" Width="1200"
+        TextElement.Foreground="{StaticResource MaterialDesignBody}"
+        Background="{StaticResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="{materialDesign:MaterialDesignFont}"
+        Icon="/Assets/Images/Icon.png"
+        MinWidth="700"
+        xmlns:views="clr-namespace:DanielAmosApp.Views"
+        xmlns:viewmodels="clr-namespace:DanielAmosApp.ViewModels"
+        >
+
+    <Window.Resources>
+        <Style x:Key="SharedViewAnimation" TargetType="UserControl">
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="UserControl.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation 
+                         Storyboard.TargetProperty="Opacity"
+                         From="0" To="1" Duration="0:0:0.3">
+                                <DoubleAnimation.EasingFunction>
+                                    <CubicEase EasingMode="EaseOut"/>
+                                </DoubleAnimation.EasingFunction>
+                            </DoubleAnimation>
+                            <ThicknessAnimation 
+                         Storyboard.TargetProperty="Margin"
+                         From="50,0,0,0" To="0" Duration="0:0:0.3">
+                                <ThicknessAnimation.EasingFunction>
+                                    <CubicEase EasingMode="EaseOut"/>
+                                </ThicknessAnimation.EasingFunction>
+                            </ThicknessAnimation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="UserControl.Unloaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation 
+                         Storyboard.TargetProperty="Opacity"
+                         From="1" To="0" Duration="0:0:0.2"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+
+        <DataTemplate DataType="{x:Type viewmodels:AddViewModel}">
+            <views:AddView Style="{StaticResource ViewTransitionScaleBounce}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:DashBoardViewModel}">
+            <views:DashBoardView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:HomeViewModel}">
+            <views:HomeView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:InformationViewModel}">
+            <views:InformationView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:LogInViewModel}">
+            <views:LogInView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:LogOutConffirmViewModel}">
+            <views:LogOutConffirmView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:RegisterViewModel}">
+            <views:RegisterView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:SearchViewModel}">
+            <views:SearchView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:MachineViewModel}">
+            <views:MachineView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:MachinesContainerViewModel}">
+            <views:MachinesContainerView Style="{StaticResource SharedViewAnimation}" />
+        </DataTemplate>
+    </Window.Resources>
+
+
+    <DockPanel LastChildFill="True">
+        <!-- Top Bar -->
+        <materialDesign:ColorZone DockPanel.Dock="Top"
+                                Mode="PrimaryDark"
+                                materialDesign:ElevationAssist.Elevation="Dp4">
+            <DockPanel LastChildFill="True" Height="70">
+                <!-- Logo -->
+                <Image DockPanel.Dock="Left"
+                       Source="/Assets/Images/Logo.png"
+                       Height="50"
+                       Margin="16,10"
+                       Stretch="Uniform"/>
+
+                <!-- Navigation Buttons -->
+                <StackPanel DockPanel.Dock="Right" 
+                   Orientation="Horizontal" 
+                   Margin="16,0">
+                    <Button Style="{StaticResource MaterialDesignIconButton}"
+                    Command="{Binding GoBackCommand}"
+                    ToolTip="Go Back"
+                    IsEnabled="{Binding CanGoBack}">
+                        <materialDesign:PackIcon Kind="ArrowLeft" />
+                    </Button>
+                    <Button Style="{StaticResource MaterialDesignIconButton}"
+                    Command="{Binding GoForwardCommand}"
+                    ToolTip="Go Forward"
+                    Margin="8,0"
+                    IsEnabled="{Binding CanGoForward}">
+                        <materialDesign:PackIcon Kind="ArrowRight" />
+                    </Button>
+                </StackPanel>
+
+                <!-- Inspiration Quote -->
+                <TextBlock DockPanel.Dock="Right"
+                          Text="Success is like a cup of hot chocolate ☕️ – it's sweeter when everyone shares it! 🍫" 
+                          VerticalAlignment="Center"
+                          Margin="16"
+                          TextWrapping="Wrap"
+                          MaxWidth="300"
+                          Foreground="White"
+                          FontStyle="Italic"/>
+
+                <!-- Navigation -->
+                <materialDesign:ColorZone Mode="Standard"
+                         VerticalAlignment="Center"
+                         Padding="8 4"
+                         CornerRadius="2"
+                         Panel.ZIndex="1"
+                         Margin="16 8"
+                         materialDesign:ElevationAssist.Elevation="Dp2">
+                    <DockPanel>
+                        <StackPanel Orientation="Horizontal" 
+                   HorizontalAlignment="Center"
+                   DockPanel.Dock="Top">
+                            <ItemsControl ItemsSource="{Binding NavigationItems}">
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <RadioButton
+                                   Margin="4"
+                                   IsChecked="{Binding IsSelected}"
+                                   Command="{Binding DataContext.NavigateCommand, 
+                                            RelativeSource={RelativeSource AncestorType=Window}}"
+                                   CommandParameter="{Binding ViewName}">
+                                            <RadioButton.Style>
+                                                <Style TargetType="RadioButton"  BasedOn="{StaticResource MaterialDesignTabRadioButton}">
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding IsVisible}" Value="True">
+                                                            <Setter Property="Visibility" Value="Visible"/>
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding IsVisible}" Value="False">
+                                                            <Setter Property="Visibility" Value="Collapsed"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </RadioButton.Style>
+                                            <StackPanel Orientation="Horizontal">
+                                                <materialDesign:PackIcon Kind="{Binding Icon}"
+                                                       Margin="0 0 8 0"/>
+                                                <TextBlock Text="{Binding Name}"/>
+                                            </StackPanel>
+
+                                        </RadioButton>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </StackPanel>
+                    </DockPanel>
+                </materialDesign:ColorZone>
+            </DockPanel>
+        </materialDesign:ColorZone>
+
+        <!-- Footer -->
+        <materialDesign:ColorZone DockPanel.Dock="Bottom"
+                                 Mode="PrimaryDark"
+                                 Padding="16">
+            <TextBlock Text="© 2025 All rights reserved."
+                      HorizontalAlignment="Center"/>
+        </materialDesign:ColorZone>
+
+        <!-- Main Content Area -->
+        <materialDesign:Transitioner SelectedIndex="0">
+            <materialDesign:TransitionerSlide>
+                <materialDesign:TransitionerSlide.ForwardWipe>
+                    <materialDesign:FadeWipe Duration="0:0:0.5"/>
+                </materialDesign:TransitionerSlide.ForwardWipe>
+                <materialDesign:TransitionerSlide.BackwardWipe>
+                    <materialDesign:CircleWipe/>
+                </materialDesign:TransitionerSlide.BackwardWipe>
+
+                <Grid Margin="16">
+                    <materialDesign:Card Padding="32"
+                              materialDesign:ElevationAssist.Elevation="Dp4">
+                        <ContentControl Content="{Binding SelectedViewModel}"/>
+                    </materialDesign:Card>
+                </Grid>
+            </materialDesign:TransitionerSlide>
+        </materialDesign:Transitioner>
+
+
+    </DockPanel>
+</Window>
+

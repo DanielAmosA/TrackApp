@@ -1,0 +1,16 @@
+<Window.Resources>
+    <DataTemplate DataType="{x:Type local:HomeViewModel}">
+        <local:HomeView />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type local:SettingsViewModel}">
+        <local:SettingsView />
+    </DataTemplate>
+</Window.Resources>
+
+<Grid>
+    <StackPanel Orientation="Horizontal">
+        <Button Content="Home" Command="{Binding NavigateCommand}" CommandParameter="Home" />
+        <Button Content="Settings" Command="{Binding NavigateCommand}" CommandParameter="Settings" />
+    </StackPanel>
+    <ContentControl Content="{Binding CurrentView}" />
+</Grid>

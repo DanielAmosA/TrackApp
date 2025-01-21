@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DatabaseConfig>
+  <ConnectionString>Server=DESKTOP-RJQ2O1T;Database=AmosDanielDB;Trusted_Connection=True;TrustServerCertificate=True;</ConnectionString>
+</DatabaseConfig>

@@ -1,0 +1,201 @@
+2025-01-21 00:04:51.443 +02:00 [INF] Application started!
+2025-01-21 00:04:52.144 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:04:52.195 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:04:52.203 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:04:52.229 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:06:26.837 +02:00 [INF] Application started!
+2025-01-21 00:06:30.504 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:06:30.545 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:06:30.551 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:06:30.645 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:06:43.612 +02:00 [INF] Application exited.
+2025-01-21 00:07:40.422 +02:00 [INF] Application started!
+2025-01-21 00:07:41.065 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:07:41.113 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:07:41.121 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:07:41.124 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:08:24.965 +02:00 [INF] Application started!
+2025-01-21 00:08:25.631 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:08:25.756 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:08:25.764 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:08:25.772 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:09:32.842 +02:00 [INF] Application started!
+2025-01-21 00:09:33.470 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:09:33.514 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:09:33.521 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:09:33.523 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:10:12.914 +02:00 [INF] Application started!
+2025-01-21 00:10:13.518 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:10:13.584 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:10:13.592 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:10:13.594 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:10:55.910 +02:00 [INF] Application started!
+2025-01-21 00:10:56.613 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:10:56.661 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:10:56.667 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:10:56.753 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:13:23.608 +02:00 [INF] Application started!
+2025-01-21 00:13:24.370 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:13:24.518 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:13:24.526 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:13:24.535 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:04.944 +02:00 [INF] Application started!
+2025-01-21 00:16:05.600 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:05.643 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:05.649 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:05.742 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:16.591 +02:00 [INF] Application started!
+2025-01-21 00:16:17.283 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:17.337 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:17.344 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:17.350 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:34.826 +02:00 [INF] Application started!
+2025-01-21 00:16:35.571 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:35.685 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:35.693 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:35.695 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:58.790 +02:00 [INF] Application started!
+2025-01-21 00:16:59.456 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:59.603 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:16:59.610 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:16:59.617 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:17:36.605 +02:00 [INF] Application started!
+2025-01-21 00:17:37.288 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:17:37.417 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:17:37.427 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:17:37.434 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:17:48.544 +02:00 [INF] Application started!
+2025-01-21 00:17:49.209 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:17:49.256 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:17:49.265 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:17:49.358 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:18:05.050 +02:00 [INF] Application started!
+2025-01-21 00:18:05.740 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:18:05.785 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:18:05.792 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:18:05.877 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:19:09.866 +02:00 [INF] Application started!
+2025-01-21 00:19:10.511 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:19:10.571 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:19:10.577 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:19:10.579 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:19:20.894 +02:00 [INF] Application started!
+2025-01-21 00:19:21.542 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:19:21.591 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:19:21.599 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:19:21.690 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:21:34.470 +02:00 [INF] Application started!
+2025-01-21 00:22:54.383 +02:00 [INF] Application started!
+2025-01-21 00:22:55.067 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:22:55.198 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:22:55.206 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:22:55.214 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:23:09.886 +02:00 [INF] Application started!
+2025-01-21 00:23:10.591 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:23:10.732 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:23:10.742 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:23:10.744 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:23:51.441 +02:00 [INF] Application started!
+2025-01-21 00:23:52.126 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:23:52.173 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:23:52.178 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:23:52.285 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:30:57.420 +02:00 [INF] Application started!
+2025-01-21 00:31:20.024 +02:00 [INF] Application started!
+2025-01-21 00:32:08.686 +02:00 [INF] Application started!
+2025-01-21 00:32:09.455 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:32:09.584 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:32:09.592 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:32:09.600 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:32:46.411 +02:00 [INF] Application started!
+2025-01-21 00:32:47.119 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:32:47.280 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:32:47.288 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:32:47.294 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:58:08.896 +02:00 [INF] Application started!
+2025-01-21 00:58:09.577 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:58:09.704 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:58:09.711 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:58:09.718 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:58:39.294 +02:00 [INF] Application started!
+2025-01-21 00:58:39.972 +02:00 [INF] DataHelper - Executing stored procedure Machines_Insert with parameters: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:58:40.021 +02:00 [INF] DataHelper - Procedure Machines_Insert completed successfully. Parameters used: @Name=a, @Description=b, @MachineType=Human Operated, @CurrentStatusId=2, @Notes=c
+2025-01-21 00:58:40.029 +02:00 [INF] DataHelper - Executing stored procedure Machines_Update with parameters: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 00:58:40.030 +02:00 [INF] DataHelper - Procedure Machines_Update completed successfully. Parameters used: @MachineID=28, @New_Name=a, @New_Description=b, @New_MachineType=Human Operated, @New_CurrentStatusId=2, @New_Notes=2
+2025-01-21 02:42:48.627 +02:00 [INF] Application started!
+2025-01-21 02:44:01.115 +02:00 [INF] Application started!
+2025-01-21 03:02:50.500 +02:00 [INF] Application started!
+2025-01-21 03:05:30.057 +02:00 [INF] Application started!
+2025-01-21 03:06:14.085 +02:00 [INF] Application started!
+2025-01-21 03:10:51.746 +02:00 [INF] Application started!
+2025-01-21 03:14:05.177 +02:00 [INF] Application started!
+2025-01-21 03:14:21.814 +02:00 [INF] Application started!
+2025-01-21 03:14:53.038 +02:00 [INF] Application started!
+2025-01-21 03:19:34.126 +02:00 [INF] Application started!
+2025-01-21 03:22:37.168 +02:00 [INF] Application started!
+2025-01-21 03:30:56.877 +02:00 [INF] Application started!
+2025-01-21 03:41:09.766 +02:00 [INF] Application started!
+2025-01-21 03:45:08.858 +02:00 [INF] Application started!
+2025-01-21 03:47:16.738 +02:00 [INF] Application started!
+2025-01-21 03:48:00.574 +02:00 [INF] Application started!
+2025-01-21 03:51:28.159 +02:00 [INF] Application started!
+2025-01-21 03:58:15.296 +02:00 [INF] Application started!
+2025-01-21 04:02:15.951 +02:00 [INF] Application started!
+2025-01-21 04:13:52.124 +02:00 [INF] Application started!
+2025-01-21 04:15:50.828 +02:00 [INF] Application started!
+2025-01-21 04:16:20.218 +02:00 [INF] Application started!
+2025-01-21 04:17:34.588 +02:00 [INF] Application started!
+2025-01-21 04:35:10.488 +02:00 [INF] Application started!
+2025-01-21 04:35:32.695 +02:00 [INF] Application started!
+2025-01-21 04:42:03.980 +02:00 [INF] Application started!
+2025-01-21 04:42:38.473 +02:00 [INF] Application started!
+2025-01-21 04:45:28.034 +02:00 [INF] Application started!
+2025-01-21 04:52:41.383 +02:00 [INF] Application started!
+2025-01-21 04:54:31.177 +02:00 [INF] Application started!
+2025-01-21 05:04:12.128 +02:00 [INF] Application started!
+2025-01-21 05:06:05.174 +02:00 [INF] Application started!
+2025-01-21 05:21:09.756 +02:00 [INF] Application started!
+2025-01-21 05:22:07.144 +02:00 [INF] Application started!
+2025-01-21 05:23:04.385 +02:00 [INF] Application started!
+2025-01-21 05:30:08.014 +02:00 [INF] Application started!
+2025-01-21 05:30:55.228 +02:00 [INF] Application started!
+2025-01-21 05:32:37.422 +02:00 [INF] Application started!
+2025-01-21 05:33:06.747 +02:00 [INF] Application started!
+2025-01-21 06:18:53.172 +02:00 [INF] Application started!
+2025-01-21 06:19:14.052 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=a
+2025-01-21 06:19:14.103 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=a
+2025-01-21 06:19:46.123 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=a
+2025-01-21 06:19:46.718 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=a
+2025-01-21 06:20:45.360 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=a
+2025-01-21 06:20:45.379 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=a
+2025-01-21 06:21:20.931 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:21:20.982 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:21:42.951 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:21:42.968 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:21:57.585 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:21:57.596 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:22:10.659 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:22:10.669 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:22:19.788 +02:00 [INF] Application started!
+2025-01-21 06:22:36.898 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=a
+2025-01-21 06:22:36.949 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=a
+2025-01-21 06:22:56.744 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:22:56.759 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:23:37.738 +02:00 [INF] Application started!
+2025-01-21 06:24:03.063 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=a
+2025-01-21 06:24:03.189 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=a
+2025-01-21 06:24:17.830 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:24:17.845 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:24:36.402 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:24:36.413 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:24:57.673 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:24:57.719 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:25:12.549 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=b
+2025-01-21 06:25:13.247 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=b
+2025-01-21 06:26:08.630 +02:00 [INF] Application started!
+2025-01-21 06:26:22.180 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=c
+2025-01-21 06:26:22.304 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=c
+2025-01-21 07:20:43.979 +02:00 [INF] Application started!
+2025-01-21 07:20:55.595 +02:00 [INF] DataHelper - Executing stored procedure Users_GetUserByEmail with parameters: @Email=c
+2025-01-21 07:20:55.637 +02:00 [INF] DataHelper - Procedure Users_GetUserByEmail completed successfully. Parameters used: @Email=c
+2025-01-21 07:21:01.986 +02:00 [INF] LogInViewModel - User with email c logged in

@@ -1,0 +1,15 @@
+<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TabControl Name="MainTabControl">
+            <TabItem Header="Tab 1">
+                <ContentControl Content="{Binding CurrentContent}" />
+            </TabItem>
+            <TabItem Header="Tab 2">
+                <ContentControl Content="{Binding CurrentContent}" />
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
